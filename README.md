@@ -1,4 +1,4 @@
-# Growpad:
+
 Fostering Trust and Fairness through Crypto Innovation
 
 
