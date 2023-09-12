@@ -2,7 +2,6 @@
 Fostering Trust and Fairness through Crypto Innovation
 
 
-
 ## Project Overview
 
 Growpad is a visionary project dedicated to tackling the inefficiencies and injustices deeply embedded in our social and economic structures. By harnessing the power of cryptocurrency and blockchain technology, Growpad aims to usher in a new era of trust, transparency, and fairness across various domains, including businesses, technologies, and consumer experiences.
