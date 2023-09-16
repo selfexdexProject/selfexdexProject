@@ -8,6 +8,7 @@ Growpad is a visionary project dedicated to tackling the inefficiencies and inju
 
 ## Our Vision
 
+
 At Growpad, we firmly believe that cryptocurrency has the potential to act as a catalyst for positive transformation. Traditional systems have often perpetuated issues such as uneven returns on investments, societal inequality, and a growing sense of distrust. Growpad sees crypto as the key to disrupting these asymmetries and leveling the playing field for all participants.
 
 ## Key Objectives
